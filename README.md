@@ -1,2 +1,6 @@
-# phobos-docs
-Documentación general de Phobos
+# Astronauts General Documentation
+
+Documentación general del Proyecto Astronauts:
+ - Phobos
+ - Deimos
+ - Eris
